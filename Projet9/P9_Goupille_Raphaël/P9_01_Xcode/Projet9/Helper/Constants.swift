@@ -8,10 +8,10 @@
 import Foundation
 
 class Constants {
-    static let firstCurrencyKey = "0bc21a7070fd37a8cc7f9ab931e45b34"
-    static let secondCurrencyKey = "dd701bf3a109507caa8d901a17af7692"
+    static let firstCurrencyKey = ""
+    static let secondCurrencyKey = ""
     
-    static let translateKey = "AIzaSyCi_MKsn6t-Yb2SUvchQ4lp59gjUL39LFg"
+    static let translateKey = ""
     
-    static let weatherKey = "60d8036cdbf22d8ec42ae3ae093d909d"
+    static let weatherKey = ""
 }
